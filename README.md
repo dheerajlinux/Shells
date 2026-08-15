@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts for reference till date.
+Schell Scripts for reference till date and pratice
